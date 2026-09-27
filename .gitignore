@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+*.egg-info/
+build/
+dist/
+
+# demo artifacts
+parallel.log
+runs/
+eval_*.log
+pip-install.log
+tasks.json
